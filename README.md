@@ -1,5 +1,5 @@
 # Description
-Utility for running scripts from the command line.
+Utility for running IDA-scripts from the command line.
 
 Versions used:
 - Python 2.7
