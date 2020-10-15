@@ -17,5 +17,5 @@ if __name__ == "__main__":
 ```
 Example of run:
 ```
-ida_runner.py -ida "C:\\Program Files (x86)\\IDA 6.8" -input "C:\test.exe"  -script "C:\test.py"
+ida_runner.py -ida_dir "C:\\Program Files (x86)\\IDA 6.8" -input "C:\test.exe"  -script "C:\test.py"
 ```
